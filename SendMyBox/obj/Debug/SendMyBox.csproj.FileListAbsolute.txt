@@ -1,0 +1,11 @@
+C:\Users\Sea\source\repos\SendMyBox\SendMyBox\bin\Debug\SendMyBox.dll
+C:\Users\Sea\source\repos\SendMyBox\SendMyBox\bin\Debug\SendMyBox.pdb
+C:\Users\Sea\source\repos\SendMyBox\SendMyBox\bin\Debug\SimioAPI.dll
+C:\Users\Sea\source\repos\SendMyBox\SendMyBox\bin\Debug\SimioAPI.Extensions.dll
+C:\Users\Sea\source\repos\SendMyBox\SendMyBox\bin\Debug\SimioAPI.Graphics.dll
+C:\Users\Sea\source\repos\SendMyBox\SendMyBox\obj\Debug\SendMyBox.Form1.resources
+C:\Users\Sea\source\repos\SendMyBox\SendMyBox\obj\Debug\SendMyBox.csproj.GenerateResource.cache
+C:\Users\Sea\source\repos\SendMyBox\SendMyBox\obj\Debug\SendMyBox.csproj.CoreCompileInputs.cache
+C:\Users\Sea\source\repos\SendMyBox\SendMyBox\obj\Debug\SendMyBox.csproj.CopyComplete
+C:\Users\Sea\source\repos\SendMyBox\SendMyBox\obj\Debug\SendMyBox.dll
+C:\Users\Sea\source\repos\SendMyBox\SendMyBox\obj\Debug\SendMyBox.pdb
